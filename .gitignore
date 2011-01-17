@@ -2,7 +2,8 @@
 /game
 /log
 /temp
-/sources/DX
+/sources/DX/include
+/sources/DX/lib
 /sources/ipch
 
 *.opensdf
